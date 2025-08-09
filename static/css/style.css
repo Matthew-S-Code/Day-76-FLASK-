@@ -1,0 +1,42 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color: #6476be;
+}
+
+h1 {
+  font-size: 48px;
+  font-weight: bold;
+  text-align: center;
+  background-color: #94b2bc;
+  width: 300px;
+  border: 15px solid #02052c;
+  padding: 20px;
+  margin: auto; 
+}
+
+img {
+  height: auto;
+  display: block;
+  margin: auto;
+  border: 15px solid #02052c;
+  border-top: 0px solid;
+}
+
+.here {
+  text-align: center;
+  background-color: #94b2bc;
+  width: 150px;
+  border: 5px double #02052c;
+  padding: 10px;
+  margin: auto;
+}
+
+p {
+  text-align: center;
+  background-color: #94b2bc;
+  width: 150px;
+  border: 5px dashed #02052c;
+  padding: 10px;
+  margin: auto;
+}
